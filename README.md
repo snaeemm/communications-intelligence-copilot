@@ -89,7 +89,7 @@ src/components/  step bar, evidence inspector, audit panel, shared UI
 
 ## Demo video
 
-[`docs/demo/communications-intelligence-copilot-demo-narrated.mp4`](docs/demo/communications-intelligence-copilot-demo-narrated.mp4), 1920×1080, H.264, 137 s (2 min 17 s), with AI-generated narration (captions in the `.srt` file next to it). Full-screen title cards sit **between** clean recordings of the real app; nothing is overlaid on the app. The scene timings are in the video's timestamps file. It has the actual scene times, `demo-assets/title-cards/` the cards, and `demo-assets/screens/` key screenshots.
+[`docs/demo/communications-intelligence-copilot-demo-narrated.mp4`](docs/demo/communications-intelligence-copilot-demo-narrated.mp4), 1920×1080, H.264, 137 s (2 min 17 s), with AI-generated narration (captions in the `.srt` file next to it). Full-screen title cards sit **between** clean recordings of the real app; nothing is overlaid on the app.
 
 ## Demo click path
 
