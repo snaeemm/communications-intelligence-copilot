@@ -1,0 +1,91 @@
+1
+00:00:00,300 --> 00:00:04,376
+This proof of concept shows how coverage becomes a reviewed briefing.
+
+2
+00:00:04,376 --> 00:00:05,859
+The data is synthetic.
+
+3
+00:00:08,000 --> 00:00:12,356
+It starts with the client brief and three approved key messages.
+
+4
+00:00:12,356 --> 00:00:17,109
+Then sixteen articles of coverage, with duplicates and incomplete records set aside.
+
+5
+00:00:19,899 --> 00:00:22,846
+Next, a rules based analysis labels each article.
+
+6
+00:00:22,846 --> 00:00:28,002
+It is not a language model, so it behaves the same way every run.
+
+7
+00:00:28,002 --> 00:00:35,000
+Every finding shows the exact quote behind it, and the app checks that quote really appears in the article.
+
+8
+00:00:37,299 --> 00:00:38,727
+Then people take over.
+
+9
+00:00:38,727 --> 00:00:44,794
+A reviewer accepts, corrects or rejects every finding, and the briefing stays locked until that is done.
+
+10
+00:00:44,794 --> 00:00:49,077
+Every action is logged with who made it, when, and what changed.
+
+11
+00:00:49,077 --> 00:00:52,289
+The reviewer picker is fictional, not real sign in.
+
+12
+00:01:00,299 --> 00:01:04,428
+Once the review is complete, the numbers are for the client.
+
+13
+00:01:04,428 --> 00:01:10,810
+Message penetration and tone are calculated only from the reviewed set, and they are labelled as illustrative.
+
+14
+00:01:12,700 --> 00:01:14,586
+Here is the advisory panel.
+
+15
+00:01:14,586 --> 00:01:17,226
+It is simulated, not four AI agents.
+
+16
+00:01:17,226 --> 00:01:24,017
+Four rule based perspectives read the same reviewed results and apply different fixed rules, so they can disagree.
+
+17
+00:01:24,017 --> 00:01:30,430
+Each point is marked supported, assumption, or not enough evidence, and then a synthesis pulls it together.
+
+18
+00:01:41,000 --> 00:01:42,302
+Finally, Ask the Campaign.
+
+19
+00:01:42,302 --> 00:01:48,166
+A suggested question gets an answer built from the reviewed data, with a link back to the evidence.
+
+20
+00:01:48,166 --> 00:01:50,446
+I can also type my own question.
+
+21
+00:01:50,446 --> 00:01:56,310
+It is matched to supported topics by simple rules, so it is a guided demo, not a chatbot.
+
+22
+00:02:11,000 --> 00:02:16,439
+The goal is simple: AI that helps, with people in control and every decision on record.
+
+23
+00:02:16,439 --> 00:02:17,120
+Thank you.
